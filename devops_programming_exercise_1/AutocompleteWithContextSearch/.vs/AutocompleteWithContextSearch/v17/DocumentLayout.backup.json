@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\School\\M324\\devops_programming_exercise_1\\AutocompleteWithContextSearch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB401361-370A-4AB0-9FDF-7FBC5AAA82FA}|AutocompleteWithContextSearch\\AutocompleteWithContextSearch.csproj|c:\\projects\\school\\m324\\devops_programming_exercise_1\\autocompletewithcontextsearch\\autocompletewithcontextsearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB401361-370A-4AB0-9FDF-7FBC5AAA82FA}|AutocompleteWithContextSearch\\AutocompleteWithContextSearch.csproj|solutionrelative:autocompletewithcontextsearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB401361-370A-4AB0-9FDF-7FBC5AAA82FA}|AutocompleteWithContextSearch\\AutocompleteWithContextSearch.csproj|c:\\projects\\school\\m324\\devops_programming_exercise_1\\autocompletewithcontextsearch\\autocompletewithcontextsearch\\serachresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB401361-370A-4AB0-9FDF-7FBC5AAA82FA}|AutocompleteWithContextSearch\\AutocompleteWithContextSearch.csproj|solutionrelative:autocompletewithcontextsearch\\serachresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB401361-370A-4AB0-9FDF-7FBC5AAA82FA}|AutocompleteWithContextSearch\\AutocompleteWithContextSearch.csproj|c:\\projects\\school\\m324\\devops_programming_exercise_1\\autocompletewithcontextsearch\\autocompletewithcontextsearch\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB401361-370A-4AB0-9FDF-7FBC5AAA82FA}|AutocompleteWithContextSearch\\AutocompleteWithContextSearch.csproj|solutionrelative:autocompletewithcontextsearch\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB401361-370A-4AB0-9FDF-7FBC5AAA82FA}|AutocompleteWithContextSearch\\AutocompleteWithContextSearch.csproj|c:\\projects\\school\\m324\\devops_programming_exercise_1\\autocompletewithcontextsearch\\autocompletewithcontextsearch\\old\\first_try.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB401361-370A-4AB0-9FDF-7FBC5AAA82FA}|AutocompleteWithContextSearch\\AutocompleteWithContextSearch.csproj|solutionrelative:autocompletewithcontextsearch\\old\\first_try.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB401361-370A-4AB0-9FDF-7FBC5AAA82FA}|AutocompleteWithContextSearch\\AutocompleteWithContextSearch.csproj|c:\\projects\\school\\m324\\devops_programming_exercise_1\\autocompletewithcontextsearch\\autocompletewithcontextsearch\\data\\class.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB401361-370A-4AB0-9FDF-7FBC5AAA82FA}|AutocompleteWithContextSearch\\AutocompleteWithContextSearch.csproj|solutionrelative:autocompletewithcontextsearch\\data\\class.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\School\\M324\\devops_programming_exercise_1\\class.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "First_Try.cs",
+              "DocumentMoniker": "C:\\Projects\\School\\M324\\devops_programming_exercise_1\\AutocompleteWithContextSearch\\AutocompleteWithContextSearch\\Old\\First_Try.cs",
+              "RelativeDocumentMoniker": "AutocompleteWithContextSearch\\Old\\First_Try.cs",
+              "ToolTip": "C:\\Projects\\School\\M324\\devops_programming_exercise_1\\AutocompleteWithContextSearch\\AutocompleteWithContextSearch\\Old\\First_Try.cs",
+              "RelativeToolTip": "AutocompleteWithContextSearch\\Old\\First_Try.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T08:12:03.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SerachResult.cs",
+              "DocumentMoniker": "C:\\Projects\\School\\M324\\devops_programming_exercise_1\\AutocompleteWithContextSearch\\AutocompleteWithContextSearch\\SerachResult.cs",
+              "RelativeDocumentMoniker": "AutocompleteWithContextSearch\\SerachResult.cs",
+              "ToolTip": "C:\\Projects\\School\\M324\\devops_programming_exercise_1\\AutocompleteWithContextSearch\\AutocompleteWithContextSearch\\SerachResult.cs",
+              "RelativeToolTip": "AutocompleteWithContextSearch\\SerachResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:48:43.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "class.json",
+              "DocumentMoniker": "C:\\Projects\\School\\M324\\devops_programming_exercise_1\\AutocompleteWithContextSearch\\AutocompleteWithContextSearch\\data\\class.json",
+              "RelativeDocumentMoniker": "AutocompleteWithContextSearch\\data\\class.json",
+              "ToolTip": "C:\\Projects\\School\\M324\\devops_programming_exercise_1\\AutocompleteWithContextSearch\\AutocompleteWithContextSearch\\data\\class.json",
+              "RelativeToolTip": "AutocompleteWithContextSearch\\data\\class.json",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAwJIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-21T07:37:48.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "class.json",
+              "DocumentMoniker": "C:\\Projects\\School\\M324\\devops_programming_exercise_1\\class.json",
+              "RelativeDocumentMoniker": "..\\class.json",
+              "ToolTip": "C:\\Projects\\School\\M324\\devops_programming_exercise_1\\class.json",
+              "RelativeToolTip": "..\\class.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-21T07:31:15.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Projects\\School\\M324\\devops_programming_exercise_1\\AutocompleteWithContextSearch\\AutocompleteWithContextSearch\\Student.cs",
+              "RelativeDocumentMoniker": "AutocompleteWithContextSearch\\Student.cs",
+              "ToolTip": "C:\\Projects\\School\\M324\\devops_programming_exercise_1\\AutocompleteWithContextSearch\\AutocompleteWithContextSearch\\Student.cs",
+              "RelativeToolTip": "AutocompleteWithContextSearch\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:29:59.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\School\\M324\\devops_programming_exercise_1\\AutocompleteWithContextSearch\\AutocompleteWithContextSearch\\Program.cs",
+              "RelativeDocumentMoniker": "AutocompleteWithContextSearch\\Program.cs",
+              "ToolTip": "C:\\Projects\\School\\M324\\devops_programming_exercise_1\\AutocompleteWithContextSearch\\AutocompleteWithContextSearch\\Program.cs",
+              "RelativeToolTip": "AutocompleteWithContextSearch\\Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:27:08.281Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
