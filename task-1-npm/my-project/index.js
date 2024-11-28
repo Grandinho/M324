@@ -2,7 +2,7 @@ import chalk from "chalk";
 import { generate } from "random-words";
 
 // index.js
-console.log("Hello, World!");
+   console.log("Hello, World!");
 
 // Fügen Sie hier die korrekten Imports ein. Verwenden Sie import, nicht require.
 
